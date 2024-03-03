@@ -1,0 +1,222 @@
+,Body part,Exercise
+0,CHEST EXERCISES,Bar Dip
+1,CHEST EXERCISES,Bench Press
+2,CHEST EXERCISES,Cable Chest Press
+3,CHEST EXERCISES,Close-Grip Bench Press
+4,CHEST EXERCISES,Close-Grip Feet-Up Bench Press
+5,CHEST EXERCISES,Decline Bench Press
+6,CHEST EXERCISES,Dumbbell Chest Fly
+7,CHEST EXERCISES,Dumbbell Chest Press
+8,CHEST EXERCISES,Dumbbell Decline Chest Press
+9,CHEST EXERCISES,Dumbbell Floor Press
+10,CHEST EXERCISES,Dumbbell Pullover
+11,CHEST EXERCISES,Feet-Up Bench Press
+12,CHEST EXERCISES,Floor Press
+13,CHEST EXERCISES,Incline Bench Press
+14,CHEST EXERCISES,Incline Dumbbell Press
+15,CHEST EXERCISES,Incline Push-Up
+16,CHEST EXERCISES,Kneeling Incline Push-Up
+17,CHEST EXERCISES,Kneeling Push-Up
+18,CHEST EXERCISES,Machine Chest Fly
+19,CHEST EXERCISES,Machine Chest Press
+20,CHEST EXERCISES,Pec Deck
+21,CHEST EXERCISES,Push-Up
+22,CHEST EXERCISES,Push-Up Against Wall
+23,CHEST EXERCISES,Push-Ups With Feet in Rings
+24,CHEST EXERCISES,Resistance Band Chest Fly
+25,CHEST EXERCISES,Smith Machine Bench Press
+26,CHEST EXERCISES,Smith Machine Incline Bench Press
+27,CHEST EXERCISES,Standing Cable Chest Fly
+28,CHEST EXERCISES,Standing Resistance Band Chest Fly
+29,SHOULDER EXERCISES,Band External Shoulder Rotation
+30,SHOULDER EXERCISES,Band Internal Shoulder Rotation
+31,SHOULDER EXERCISES,Band Pull-Apart
+32,SHOULDER EXERCISES,Barbell Front Raise
+33,SHOULDER EXERCISES,Barbell Rear Delt Row
+34,SHOULDER EXERCISES,Barbell Upright Row
+35,SHOULDER EXERCISES,Behind the Neck Press
+36,SHOULDER EXERCISES,Cable Lateral Raise
+37,SHOULDER EXERCISES,Cable Rear Delt Row
+38,SHOULDER EXERCISES,Dumbbell Front Raise
+39,SHOULDER EXERCISES,Dumbbell Horizontal Internal Shoulder Rotation
+40,SHOULDER EXERCISES,Dumbbell Horizontal External Shoulder Rotation
+41,SHOULDER EXERCISES,Dumbbell Lateral Raise
+42,SHOULDER EXERCISES,Dumbbell Rear Delt Row
+43,SHOULDER EXERCISES,Dumbbell Shoulder Press
+44,SHOULDER EXERCISES,Face Pull
+45,SHOULDER EXERCISES,Front Hold
+46,SHOULDER EXERCISES,Lying Dumbbell External Shoulder Rotation
+47,SHOULDER EXERCISES,Lying Dumbbell Internal Shoulder Rotation
+48,SHOULDER EXERCISES,Machine Lateral Raise
+49,SHOULDER EXERCISES,Machine Shoulder Press
+50,SHOULDER EXERCISES,Monkey Row
+51,SHOULDER EXERCISES,Overhead Press
+52,SHOULDER EXERCISES,Plate Front Raise
+53,SHOULDER EXERCISES,Power Jerk
+54,SHOULDER EXERCISES,Push Press
+55,SHOULDER EXERCISES,Reverse Cable Flyes
+56,SHOULDER EXERCISES,Reverse Dumbbell Flyes
+57,SHOULDER EXERCISES,Reverse Machine Fly
+58,SHOULDER EXERCISES,Seated Dumbbell Shoulder Press
+59,SHOULDER EXERCISES,Seated Barbell Overhead Press
+60,SHOULDER EXERCISES,Seated Smith Machine Shoulder Press
+61,SHOULDER EXERCISES,Snatch Grip Behind the Neck Press
+62,SHOULDER EXERCISES,Squat Jerk
+63,SHOULDER EXERCISES,Split Jerk
+64,BICEP EXERCISES,Barbell Curl
+65,BICEP EXERCISES,Barbell Preacher Curl
+66,BICEP EXERCISES,Bodyweight Curl
+67,BICEP EXERCISES,Cable Curl With Bar
+68,BICEP EXERCISES,Cable Curl With Rope
+69,BICEP EXERCISES,Concentration Curl
+70,BICEP EXERCISES,Dumbbell Curl
+71,BICEP EXERCISES,Dumbbell Preacher Curl
+72,BICEP EXERCISES,Hammer Curl
+73,BICEP EXERCISES,Incline Dumbbell Curl
+74,BICEP EXERCISES,Machine Bicep Curl
+75,BICEP EXERCISES,Spider Curl
+76,TRICEPS EXERCISES,Barbell Standing Triceps Extension
+77,TRICEPS EXERCISES,Barbell Lying Triceps Extension
+78,TRICEPS EXERCISES,Bench Dip
+79,TRICEPS EXERCISES,Close-Grip Push-Up
+80,TRICEPS EXERCISES,Dumbbell Lying Triceps Extension
+81,TRICEPS EXERCISES,Dumbbell Standing Triceps Extension
+82,TRICEPS EXERCISES,Overhead Cable Triceps Extension
+83,TRICEPS EXERCISES,Tricep Bodyweight Extension
+84,TRICEPS EXERCISES,Tricep Pushdown With Bar
+85,TRICEPS EXERCISES,Tricep Pushdown With Rope
+86,LEG EXERCISES,Air Squat
+87,LEG EXERCISES,Barbell Hack Squat
+88,LEG EXERCISES,Barbell Lunge
+89,LEG EXERCISES,Barbell Walking Lunge
+90,LEG EXERCISES,Belt Squat
+91,LEG EXERCISES,Body Weight Lunge
+92,LEG EXERCISES,Box Squat
+93,LEG EXERCISES,Bulgarian Split Squat
+94,LEG EXERCISES,Chair Squat
+95,LEG EXERCISES,Dumbbell Lunge
+96,LEG EXERCISES,Dumbbell Squat
+97,LEG EXERCISES,Front Squat
+98,LEG EXERCISES,Goblet Squat
+99,LEG EXERCISES,Hack Squat Machine
+100,LEG EXERCISES,Half Air Squat
+101,LEG EXERCISES,Hip Adduction Machine
+102,LEG EXERCISES,Landmine Hack Squat
+103,LEG EXERCISES,Landmine Squat
+104,LEG EXERCISES,Leg Extension
+105,LEG EXERCISES,Leg Press
+106,LEG EXERCISES,Lying Leg Curl
+107,LEG EXERCISES,Pause Squat
+108,LEG EXERCISES,Romanian Deadlift
+109,LEG EXERCISES,Safety Bar Squat
+110,LEG EXERCISES,Seated Leg Curl
+111,LEG EXERCISES,Shallow Body Weight Lunge
+112,LEG EXERCISES,Side Lunges (Bodyweight)
+113,LEG EXERCISES,Smith Machine Squat
+114,LEG EXERCISES,Squat
+115,LEG EXERCISES,Step Up
+116,BACK EXERCISES,Back Extension
+117,BACK EXERCISES,Barbell Row
+118,BACK EXERCISES,Barbell Shrug
+119,BACK EXERCISES,Block Snatch
+120,BACK EXERCISES,Cable Close Grip Seated Row
+121,BACK EXERCISES,Cable Wide Grip Seated Row
+122,BACK EXERCISES,Chin-Up
+123,BACK EXERCISES,Clean
+124,BACK EXERCISES,Clean and Jerk
+125,BACK EXERCISES,Deadlift
+126,BACK EXERCISES,Deficit Deadlift
+127,BACK EXERCISES,Dumbbell Deadlift
+128,BACK EXERCISES,Dumbbell Row
+129,BACK EXERCISES,Dumbbell Shrug
+130,BACK EXERCISES,Floor Back Extension
+131,BACK EXERCISES,Good Morning
+132,BACK EXERCISES,Hang Clean
+133,BACK EXERCISES,Hang Power Clean
+134,BACK EXERCISES,Hang Power Snatch
+135,BACK EXERCISES,Hang Snatch
+136,BACK EXERCISES,Inverted Row
+137,BACK EXERCISES,Inverted Row with Underhand Grip
+138,BACK EXERCISES,Jefferson Curl
+139,BACK EXERCISES,Kettlebell Swing
+140,BACK EXERCISES,Lat Pulldown With Pronated Grip
+141,BACK EXERCISES,Lat Pulldown With Supinated Grip
+142,BACK EXERCISES,One-Handed Cable Row
+143,BACK EXERCISES,One-Handed Lat Pulldown
+144,BACK EXERCISES,Pause Deadlift
+145,BACK EXERCISES,Pendlay Row
+146,BACK EXERCISES,Power Clean
+147,BACK EXERCISES,Power Snatch
+148,BACK EXERCISES,Pull-Up
+149,BACK EXERCISES,Rack Pull
+150,BACK EXERCISES,Seal Row
+151,BACK EXERCISES,Seated Machine Row
+152,BACK EXERCISES,Snatch
+153,BACK EXERCISES,Snatch Grip Deadlift
+154,BACK EXERCISES,Stiff-Legged Deadlift
+155,BACK EXERCISES,Straight Arm Lat Pulldown
+156,BACK EXERCISES,Sumo Deadlift
+157,BACK EXERCISES,T-Bar Row
+158,BACK EXERCISES,Trap Bar Deadlift With High Handles
+159,BACK EXERCISES,Trap Bar Deadlift With Low Handles
+160,GLUTE EXERCISES,Banded Side Kicks
+161,GLUTE EXERCISES,Cable Pull Through
+162,GLUTE EXERCISES,Clamshells
+163,GLUTE EXERCISES,Dumbbell Romanian Deadlift
+164,GLUTE EXERCISES,Dumbbell Frog Pumps
+165,GLUTE EXERCISES,Fire Hydrants
+166,GLUTE EXERCISES,Frog Pumps
+167,GLUTE EXERCISES,Glute Bridge
+168,GLUTE EXERCISES,Hip Abduction Against Band
+169,GLUTE EXERCISES,Hip Abduction Machine
+170,GLUTE EXERCISES,Hip Thrust
+171,GLUTE EXERCISES,Hip Thrust Machine
+172,GLUTE EXERCISES,Hip Thrust With Band Around Knees
+173,GLUTE EXERCISES,Lateral Walk With Band
+174,GLUTE EXERCISES,Machine Glute Kickbacks
+175,GLUTE EXERCISES,One-Legged Glute Bridge
+176,GLUTE EXERCISES,One-Legged Hip Thrust 
+177,GLUTE EXERCISES,Romanian Deadlift
+178,GLUTE EXERCISES,Single Leg Romanian Deadlift
+179,GLUTE EXERCISES,Standing Glute Kickback in Machine
+180,GLUTE EXERCISES,Step Up
+181,AB EXERCISES,Cable Crunch
+182,AB EXERCISES,Crunch
+183,AB EXERCISES,Dead Bug
+184,AB EXERCISES,Hanging Leg Raise
+185,AB EXERCISES,Hanging Knee Raise
+186,AB EXERCISES,Hanging Sit-Up
+187,AB EXERCISES,High to Low Wood Chop with Band
+188,AB EXERCISES,Horizontal Wood Chop with Band
+189,AB EXERCISES,Kneeling Ab Wheel Roll-Out
+190,AB EXERCISES,Kneeling Plank
+191,AB EXERCISES,Kneeling Side Plank
+192,AB EXERCISES,Lying Leg Raise
+193,AB EXERCISES,Lying Windshield Wiper
+194,AB EXERCISES,Lying Windshield Wiper with Bent Knees
+195,AB EXERCISES,Machine Crunch
+196,AB EXERCISES,Mountain Climbers
+197,AB EXERCISES,Oblique Crunch
+198,AB EXERCISES,Oblique Sit-Up
+199,AB EXERCISES,Plank
+200,AB EXERCISES,Side Plank
+201,AB EXERCISES,Sit-Up
+202,CALVES EXERCISES,Eccentric Heel Drop
+203,CALVES EXERCISES,Heel Raise
+204,CALVES EXERCISES,Seated Calf Raise
+205,CALVES EXERCISES,Standing Calf Raise
+206,FOREARM FLEXORS & GRIP EXERCISES,Barbell Wrist Curl
+207,FOREARM FLEXORS & GRIP EXERCISES,Barbell Wrist Curl Behind the Back
+208,FOREARM FLEXORS & GRIP EXERCISES,Bar Hang
+209,FOREARM FLEXORS & GRIP EXERCISES,Dumbbell Wrist Curl
+210,FOREARM FLEXORS & GRIP EXERCISES,Farmers Walk
+211,FOREARM FLEXORS & GRIP EXERCISES,Fat Bar Deadlift
+212,FOREARM FLEXORS & GRIP EXERCISES,Gripper
+213,FOREARM FLEXORS & GRIP EXERCISES,One-Handed Bar Hang
+214,FOREARM FLEXORS & GRIP EXERCISES,Plate Pinch
+215,FOREARM FLEXORS & GRIP EXERCISES,Plate Wrist Curl
+216,FOREARM FLEXORS & GRIP EXERCISES,Towel Pull-Up
+217,FOREARM EXTENSOR EXERCISES,Barbell Wrist Extension
+218,FOREARM EXTENSOR EXERCISES,Dumbbell Wrist Extension
+219,CARDIO EXERCISES & EQUIPMENT,Rowing Machine
+220,CARDIO EXERCISES & EQUIPMENT,Stationary Bike
